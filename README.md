@@ -5,7 +5,7 @@
 Global News is a collection of the  most current news around the world, include news websites, government agencies, tech journals, company websites, etc.
 In this project we aim to bulid a model that predict the most topic puplished over the news.
 ## Problem statement
-Given a global news  in different  languages , we are challenged to discover  the topics that occur in a collections of articles .
+Given a global news  in different  languages , we are challenged to discover  the topics that occur in a collections of articles.
 ## Data Description
 The datasets will be selected are the [**Global News Feeds**](https://www.kaggle.com/therohk/global-news-week) and the [**Language Identification dataset**](https://www.kaggle.com/zarajamshaid/language-identification-datasst?select=dataset.csv).
 The **Global News Feeds** consist of the most published news over 2017 and 2018, which is a snapshot that covers the seven day period from **august 24** through  **august 30**.
