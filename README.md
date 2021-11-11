@@ -1,6 +1,5 @@
-# -Global-News-Feeds
-
-
+# Global News Feeds
+![Picture1](https://user-images.githubusercontent.com/90555069/141305537-ea3057b7-cf40-47d4-9985-a226ad313701.jpg)
 
 ## Introdection
 Global News is a collection of the  most current news around the world, include news websites, government agencies, tech journals, company websites, etc.
