@@ -8,7 +8,7 @@ In this project we aim to bulid a model that predict the most topic puplished ov
 Given a global news  in different  languages , we are challenged to discover  the topics that occur in a collections of articles.
 ## Data Description
 The datasets will be selected are the [**Global News Feeds**](https://www.kaggle.com/therohk/global-news-week) and the [**Language Identification dataset**](https://www.kaggle.com/zarajamshaid/language-identification-datasst?select=dataset.csv),
-the **Global News Feeds** consist of the most published news over 2017 and 2018, which is a snapshot that covers the seven day period from **august 24** through  **august 30**.
+the **Global News Feeds** consist of the most published news over 2017 and 2018, which is a snapshot that covers the seven day period from **august 24** through  **august 30**,
 and for the **Language Identification dataset**  it contains multiple paragraphs in 22 different language.
 ## Tools
 - Software Platform:
