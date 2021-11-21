@@ -11,6 +11,7 @@ The datasets will be selected are the [**Global News Feeds**](https://www.kaggle
 the **Global News Feeds** consist of the most published news over 2017 and 2018, which is a snapshot that covers the seven day period from **august 24** through  **august 30**,
 and for the **Language Identification dataset**  it contains multiple paragraphs in 22 different language.
 ## Tools
+
 - Software Platform:
     - Jupyter Notebook
 - Programming Language:
@@ -22,9 +23,11 @@ and for the **Language Identification dataset**  it contains multiple paragraphs
     - Data manipulation libraries:
         - Pandas
         - Numpy
-        - detect
+        - Spacy
+        - NLTK
     - Visualization libraries
         - Matplotlib
         - Seaborn
     - Storage libraries
         - Pickle
+        - SQLAlchemy
